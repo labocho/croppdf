@@ -1,0 +1,10 @@
+/crop/*
+/dest/*
+/jpg/*
+/png/*
+/src/*
+!/crop/.keep
+!/dest/.keep
+!/jpg/.keep
+!/png/.keep
+!/src/.keep
